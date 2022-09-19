@@ -2,7 +2,7 @@ package snake;
 
 import javax.swing.JFrame;
 
-public class snakeGame {
+public class snake {
     public static void main(String[] args) {
         new Frame();
     }
