@@ -3,7 +3,7 @@ package snake;
 import javax.swing.*;
 
 public class Frame extends JFrame{
-    Frame() {
+    public Frame() {
         Panel panel = new Panel();
         this.add(panel);
         this.setTitle("Snake");
